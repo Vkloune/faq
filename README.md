@@ -1,4 +1,4 @@
 # info git clone <URL>
 git add .
-git comnit -m "..."
+git commit -m "..."
 git push
