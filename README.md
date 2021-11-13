@@ -30,5 +30,10 @@ git push
 # Ссылки на софт:
 ### Git 
 [git-scm.com/](https://git-scm.com/)
-### Visual Studio
+### Visual Studio:
 [code.visualstudio.com/](https://code.visualstudio.com/)
+# информация:
+(http://htmlbook.ru/)
+# Ресурсы:
+### Шрифты:
+[fonts.google](https://fonts.google.com/)
